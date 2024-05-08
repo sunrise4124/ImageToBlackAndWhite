@@ -1,16 +1,8 @@
 # **Title: Image to Black And White**
 
 
-## **1. Methodology**
+## **1. Description**
+The code converts a image to gray scale
 
-
-## **2. Description**
-
-
-## **3. Input / Output**
-
-
-## **4. Live link**
-
-
-## **5. Screenshot of the Interface**
+## **2. Live link**
+[View My HTML File](Users/ashishdawar/Desktop/image-to-black-and-white/image-black-and-white.html)
